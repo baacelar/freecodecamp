@@ -1,0 +1,15 @@
+//Examples  
+
+const arr1 = [1, 2, 3];
+arr1.push(4);
+
+const arr2 = ["Stimpson", "J", "cat"];
+arr2.push(["happy", "joy"]);
+ 
+
+//Push ["dog", 3] onto the end of the myArray variable.
+
+const myArray = [["John", 23], ["cat", 2]];
+
+//Answer 
+myArray.push(["dog", 3])
